@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="with=device-width, initial-scale=1.0">
+    <title>Directions to sligo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kalam:wght@300;400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- ------Contact Header------ -->
+    <section class="contact_header">
+        <nav>
+            <a href="index.html"><img src="images/logo.png" alt=""></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa-solid fa-xmark" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">SLIGO</a></li>
+                    <li><a href="attractions.html">ATTRACTIONS</a></li>
+                    <li><a href="contacts.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa-solid fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <h1>Directions to sligo</h1>
+    </section>
+
+    <!-- ----Map---- -->
+
+    <section class="location" id="map">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18640.09161376856!2d-8.48073005!3d54.268374949999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485ee9b5677caee9%3A0xa00c7a997317380!2sSligo!5e0!3m2!1sen!2sie!4v1695171869511!5m2!1sen!2sie"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+
+    <!-- ----Contact Me---- -->
+
+    <section class="contact_me">
+        <div class="row3">
+            <div class="contact_col">
+                <div>
+                    <h2>Numan Al Rashid</h2>
+                </div>
+                <div>
+                <i class="fa-solid fa-phone"></i>
+                <span>
+                    <h5>+353 83 466 7891</h5>
+                </span>
+                </div>
+                <div>
+                <i class="fa-solid fa-envelope"></i>
+                <span>
+                    <h5>mn.alrashid@gmail.com</h5>
+                </span>
+                </div>
+            </div>
+            <div class="contact_col">
+                <form action="">
+                    <input type="text" placeholder="Enter Your Name" required>
+                    <input type="email" placeholder="Enter Email Address" required>
+                    <input type="text" placeholder="Enter Your Subject" required>
+                    <textarea rows="8" placeholder="Message" required></textarea>
+                    <button type="submit" class="button">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- ----Footer---- -->
+
+    <section class="footer">
+        <h4>About this Website!</h4>
+        <h6>This website created for education purposes by Numan, Find me on:-</h6>
+        <div class="icon">
+            <a href="https://www.facebook.com/mn.alrashid"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://ie.linkedin.com/in/numan-al-rashid-072ba952"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+    </section>
+
+    <!-- ----JavaScript---- -->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+    <!-- ----JavaScript---- -->
+</body>
+
+</html>

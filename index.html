@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="with=device-width, initial-scale=1.0">
+    <title>Welcome to Sligo!</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kalam:wght@300;400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- ------Welcome to Sligo (Header)------ -->
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="images/logo.png" alt=""></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa-solid fa-xmark" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">SLIGO</a></li>
+                    <li><a href="attractions.html">ATTRACTIONS</a></li>
+                    <li><a href="contacts.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa-solid fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>Welcome to Sligo</h1>
+            <p>Most Scenic County in Ireland!</p>
+            <a href="contacts.html#map" class="button">Visit Sligo</a>
+        </div>
+    </section>
+
+    <!-- ------Beautiful Sligo------ -->
+
+    <section class="headline">
+        <h2>Beautiful Sligo</h2>
+        <p>Sligo is known for its rugged coastal beauty. It is most scenic county with mountains and beaches.</p>
+        <div class="row2">
+            <div class="attractions">
+                <h3>Mountains</h3>
+                <p>Sligo's majestic mountains are just breathtaking. From Benbulben, Ireland's table top mountain to the
+                    quiet Ox Mountains, it is time to discover these fabulous mountain ranges. Discover more about
+                    Sligo's mountains by clicking the pictures.</p>
+            </div>
+            <div class="picture">
+                <a href="attractions.html#mountains"><img src="images/mountains.jpeg" alt=""></a>
+            </div>
+        </div>
+        <div class="row2">
+            <div class="picture">
+                <a href="attractions.html#atlantic"><img src="images/atlantic.jpeg" alt=""></a>
+            </div>
+            <div class="attractions">
+                <h3>West Atlantic Ways</h3>
+                <p>Sligo located on the Surf Coast of Ireland's Wild Atlantic Way, With over 190km of coastline and some
+                    of the most beautiful, unspoiled beaches in Ireland, Sligo is the perfect location to experience a
+                    costal walk. Discover more about Sligo's beautiful beaches by clicking the pictures</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ----Life in Sligo---- -->
+
+    <section class="headline">
+        <h2>Life in Sligo</h2>
+        <p>Sligo is truly alive and kicking and so much to entertain you, helping you feel relaxed and refreshed. From
+            nature to culture and entertainment.</p>
+        <div class="row3">
+            <div class="row3_col">
+                <img src="images/foodie.jpeg" alt="">
+                <a href="attractions.html#food">
+                    <h3>Foodie</h3>
+                </a>
+                <p>Discover Sligo's food scene through one of Sligo's food tours.</p>
+            </div>
+            <div class="row3_col">
+                <img src="images/music.jpeg" alt="">
+                <a href="attractions.html#music">
+                    <h3>Music</h3>
+                </a>
+                <p>Sligo is one of the live music capitals of Ireland.</p>
+            </div>
+            <div class="row3_col">
+                <img src="images/activities.jpg" alt="">
+                <a href="attractions.html#activities">
+                    <h3>Activities</h3>
+                </a>
+                <p>Sligo has an abundance of attractions for kids and adults.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ----Hidden Gem in Sligo---- -->
+
+    <section class="gem">
+        <h2>Hidden Gem's in Sligo</h2>
+        <p>Sligo is a hidden gem in the north-west of Ireland that is often overlooked when people come to visit.</p>
+
+        <div class="row4">
+            <div class="row4_col">
+                <img src="images/carrowmore.jpeg" alt="">
+                <div class="layer">
+                    <p><span>Carrowmore Megalithic</span><br>The cemetery is home to a large group of megalithic
+                        monuments (built: 4th millennium BC) located in county Sligo.</p>
+                </div>
+            </div>
+            <div class="row4_col">
+                <img src="images/coney_island.jpeg" alt="">
+                <div class="layer">
+                    <p><span>Coney Island</span><br>The largest and the most famous of the three islands off the
+                        northern coast of the Coolera peninsula.</p>
+                </div>
+            </div>
+            <div class="row4_col">
+                <img src="images/devils_chimney.jpeg" alt="">
+                <div class="layer">
+                    <p><span>The Devils Chimney</span><br>Ireland’s highest waterfall located on the Dartry Mountains in
+                        County Sligo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ----Footer---- -->
+
+    <section class="footer">
+        <h4>About this Website!</h4>
+        <h6>This website created for education purposes by Numan, Find me on:-</h6>
+        <div class="icon">
+            <a href="https://www.facebook.com/mn.alrashid"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://ie.linkedin.com/in/numan-al-rashid-072ba952"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+    </section>
+
+    <!-- ----JavaScript---- -->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+    <!-- ----JavaScript---- -->
+</body>
+
+</html>
