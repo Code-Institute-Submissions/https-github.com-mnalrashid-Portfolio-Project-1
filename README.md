@@ -30,10 +30,10 @@ On the journey to the website, the user will find seamless navigation between pa
 - After the map, Provide a small note to the user and an option the provide feedback (Not active, still developing)
 
 ## More to develop:
---- Sligo is a big county, will add more details about each Town/village.
---- Providing feedback, will connect to the email.
---- Add more features to the website.
---- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.
+-*- Sligo is a big county, will add more details about each Town/village.<br>
+-*- Providing feedback, will connect to the email.<br>
+-*- Add more features to the website.<br>
+-*- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.<br>
 
 ## Software:
 Used Visual Studio Code to construct the website and used HTML, CSS and a small bit of JavaScript (only for Tablets and Mobile). Also used Chrome to inspect and test the site.
