@@ -81,3 +81,18 @@ Used Google Search and downloaded from multiple websites.
 
 #### Fonts and Icons:
 Used Google Fonts and icons from Font Awesome.
+
+## Validator:
+
+- Used W3C to validate HTML.
+#### index.html: 
+![index](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/index.png)
+#### attractions.html: 
+![attractions](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/attractions.png)
+#### contacts.html:
+![contacts](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/contacts.png)
+
+- Used Jigsaw to validate CSS.
+- #### style.css: 
+![css](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/css.png)
+
