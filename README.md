@@ -24,14 +24,14 @@ On the journey to the website, the user will find seamless navigation between pa
 ![Activities](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_activities.png)
 
 - At the bottom of the first page before the footer, I provide 3 attractions that make Sligo more unique. By hoovering the top of the photos user will get details about them.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Unique](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_unique.png)
 
 - At the footer, acknowledgement and a couple of links to my social profile. All three pages have the same footer.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Footer](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_footer.png)
 
 ### Second page:
 - Top of the half page in the header and have the same navigation bar as the first page.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Second page header](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_header.png)
 
 - After the header provides short details about two beautiful mountains in the Sligo.
 ![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
