@@ -33,9 +33,22 @@ On the journey to the website, the user will find seamless navigation between pa
 - Sligo is a big county, will add more details about each Town/village.
 - Providing feedback, will connect to the email.
 - Add more features to the website.
+- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.
 
 ## Software:
 Used Visual Studio Code to construct the website and used HTML, CSS and a small bit of JavaScript (only for Tablets and Mobile). Also used Chrome to inspect and test the site.
 
 ## Deployment:
 The website is deployed in GitHub, and it is available to visit for all users [here.](https://mnalrashid.github.io/sligo.github.io/index.html)
+
+## Credits:
+I have taken ideas and content from multiple websites.
+
+#### Video:
+Youtube, Sligo Tourism channel.
+
+#### Photos: 
+Used Google Search and downloaded from multiple websites.
+
+#### Fonts and Icons:
+Used Google Fonts and icons from Font Awesome.
