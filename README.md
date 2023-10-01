@@ -55,7 +55,7 @@ On the journey to the website, the user will find seamless navigation between pa
 ![Location](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_map.png)
   
 - After the map, Provide a small note to the user and an option the provide feedback (Not active, still developing)
-![Message](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_feedback.png)
+![Message](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3-feedback.png)
 
 ## More to develop:
 #- Sligo is a big county, will add more details about each Town/village.<br>
