@@ -7,7 +7,7 @@ The website is designed and fully responsive on desktop, tablet and mobile devic
 ## Navigation:
 On the journey to the website, the user will find seamless navigation between pages and key points. 
 
-### First page on the desktop:
+### First page:
 - On the first page, it welcomes the user, in the background of the top, a short video will play which is introduced about Sligo.
 - On the top, there is a Logo on the right ( which will bring the user to the first page and on the left there are navigators for three pages).
 - At the bottom of the Welcome to Sligo, there is a button provided, which directs the user to the Direction to Sligo page and shows the map where Sligo is located.
@@ -16,7 +16,7 @@ On the journey to the website, the user will find seamless navigation between pa
 - At the bottom of the first page before the footer, I provide 3 attractions that make Sligo more unique. By hoovering the top of the photos user will get details about them.
 - At the footer, acknowledgement and a couple of links to my social profile. All three pages have the same footer.
 
-### Second page on the desktop:
+### Second page:
 - Top of the half page in the header and have the same navigation bar as the first page.
 - After the header provides short details about two beautiful mountains in the Sligo.
 - After scrolling down, the user will find three main beaches in Sligo which leads to Wild Atlantic Way.
@@ -24,8 +24,18 @@ On the journey to the website, the user will find seamless navigation between pa
 - Scrolling further down, provides information about Live Music in Sligo.
 - At the bottom of the page, before the footer, the four most popular places to visit in Sligo. By Hoovering on the photos user will get more information.
 
-### Third page on the desktop:
+### Third page:
 - Top of the half page in the header and have the same navigation bar as the first page.
 - After the header shows the map, where Sligo is located.
 - After the map, Provide a small note to the user and an option the provide feedback (Not active, still developing)
-  
+
+## More to develop:
+- Sligo is a big county, will add more details about each Town/village.
+- Providing feedback, will connect to the email.
+- Add more features to the website.
+
+## Software:
+Used Visual Studio Code to construct the website and used HTML, CSS and a small bit of JavaScript (only for Tablets and Mobile). Also used Chrome to inspect and test the site.
+
+## Deployment:
+The website is deployed in GitHub, and it is available to visit for all users [here.](https://mnalrashid.github.io/sligo.github.io/index.html)
