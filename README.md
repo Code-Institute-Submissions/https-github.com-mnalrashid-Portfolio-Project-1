@@ -93,6 +93,6 @@ Used Google Fonts and icons from Font Awesome.
 ![contacts](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/contacts.png)
 
 - Used Jigsaw to validate CSS.
-- #### style.css: 
+#### style.css: 
 ![css](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/css.png)
 
