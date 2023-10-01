@@ -1,5 +1,5 @@
 # Welcome to Sligo
-This is a static interactive 3-pages website. It responds fully to users' actions and provides information about County Sligo. The purpose of this website is to encourage people to visit Sligo. I tried to provide essential information about Sligo's most famous places to visit and activities to do.
+This is a static interactive three-page website. It responds fully to users' actions and provides information about County Sligo. The purpose of this website is to encourage people to visit Sligo. I tried to provide essential information about Sligo's most famous places to visit and activities to do.
 
 ## UX:
 The website is designed and fully responsive on desktop, tablet and mobile devices.
@@ -20,5 +20,6 @@ On the journey to the website, the user will find seamless navigation between pa
 - Top of the half page in the header and have the same navigation bar as the first page.
 - After the header provides short details about two beautiful mountains in the Sligo.
 - After scrolling down, the user will find three main beaches in Sligo which leads to Wild Atlantic Way.
-- Scrolling further down, introduced the 4 most popular/recommanded restaurants to eat when visiting Sligo.
-- 
+- After Wild Atlantic Way, introduced the 4 most popular/recommended restaurants to eat when visiting Sligo.
+- Scrolling further down, provides information about Live Music in Sligo.
+- At the bottom of the page, before the footer, the four most popular places to visit in Sligo. by Hoovering on the photos user will get more information. 
