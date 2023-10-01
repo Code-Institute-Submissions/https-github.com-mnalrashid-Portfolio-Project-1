@@ -9,6 +9,8 @@ On the journey to the website, the user will find seamless navigation between pa
 
 ### First page:
 - On the first page, it welcomes the user, in the background of the top, a short video will play which is introduced about Sligo.
+![First page background](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+
 - On the top, there is a Logo on the right ( which will bring the user to the first page and on the left there are navigators for three pages).
 - At the bottom of the Welcome to Sligo, there is a button provided, which directs the user to the Direction to Sligo page and shows the map where Sligo is located.
 - After scrolling the first top pages, the user will find two key attractions about Sligo. By clicking photos, the website will navigate the user to the Attraction page.
