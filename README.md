@@ -17,4 +17,8 @@ On the journey to the website, the user will find seamless navigation between pa
 - At the footer, acknowledgement and a couple of links to my social profile.
 
 ### Second page on the desktop:
-- Top of the half page in the header and have the same navigation bar as the first page. 
+- Top of the half page in the header and have the same navigation bar as the first page.
+- After the header provides short details about two beautiful mountains in the Sligo.
+- After scrolling down, the user will find three main beaches in Sligo which leads to Wild Atlantic Way.
+- Scrolling further down, introduced the 4 most popular/recommanded restaurants to eat when visiting Sligo.
+- 
