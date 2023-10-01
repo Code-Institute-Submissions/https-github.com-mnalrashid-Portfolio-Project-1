@@ -40,13 +40,13 @@ On the journey to the website, the user will find seamless navigation between pa
 ![Beach](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_beach.png)
   
 - After Wild Atlantic Way, introduced the 4 most popular/recommended restaurants to eat when visiting Sligo.
-![Restaurents](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_restaurents.png)
+![Restaurents](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_food.png)
   
 - Scrolling further down, provides information about Live Music in Sligo.
 ![Music](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_music.png)
   
 - At the bottom of the page, before the footer, the four most popular places to visit in Sligo. By Hoovering on the photos user will get more information.
-![Activities](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_activities.png)
+![Activities](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2-activities.png)
 
 ### Third page:
 - Top of the half page in the header and have the same navigation bar as the first page.
