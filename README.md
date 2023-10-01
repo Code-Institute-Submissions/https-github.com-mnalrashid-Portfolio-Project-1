@@ -50,7 +50,7 @@ On the journey to the website, the user will find seamless navigation between pa
 
 ### Third page:
 - Top of the half page in the header and have the same navigation bar as the first page.
-![Third page header](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_header.png)
+![Third page header](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3-header.png)
 - After the header shows the map, where Sligo is located.
 ![Location](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_map.png)
   
