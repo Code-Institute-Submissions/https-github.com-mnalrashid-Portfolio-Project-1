@@ -27,42 +27,42 @@ On the journey to the website, the user will find seamless navigation between pa
 ![Unique](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_unique.png)
 
 - At the footer, acknowledgement and a couple of links to my social profile. All three pages have the same footer.
-![Footer](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_footer.png)
+![Footer](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/footer.png)
 
 ### Second page:
 - Top of the half page in the header and have the same navigation bar as the first page.
 ![Second page header](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_header.png)
 
 - After the header provides short details about two beautiful mountains in the Sligo.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Mountains](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_mountains.png)
   
 - After scrolling down, the user will find three main beaches in Sligo which leads to Wild Atlantic Way.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Beach](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_beach.png)
   
 - After Wild Atlantic Way, introduced the 4 most popular/recommended restaurants to eat when visiting Sligo.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Restaurents](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_restaurents.png)
   
 - Scrolling further down, provides information about Live Music in Sligo.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Music](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_music.png)
   
 - At the bottom of the page, before the footer, the four most popular places to visit in Sligo. By Hoovering on the photos user will get more information.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Activities](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p2_activities.png)
 
 ### Third page:
 - Top of the half page in the header and have the same navigation bar as the first page.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Third page header](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_header.png)
 - After the header shows the map, where Sligo is located.
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Location](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_map.png)
   
 - After the map, Provide a small note to the user and an option the provide feedback (Not active, still developing)
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Message](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p3_feedback.png)
 
 ## More to develop:
 #- Sligo is a big county, will add more details about each Town/village.<br>
 #- Providing feedback, will connect to the email.<br>
 #- Add more features to the website.<br>
 #- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.<be>
-![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+![Error](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/ux_error.png)
 
 ## Software:
 Used Visual Studio Code to construct the website and used HTML, CSS and a small bit of JavaScript (only for Tablets and Mobile). Also used Chrome to inspect and test the site.
