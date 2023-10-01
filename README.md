@@ -12,30 +12,57 @@ On the journey to the website, the user will find seamless navigation between pa
 ![First page background](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
 
 - On the top, there is a Logo on the right ( which will bring the user to the first page and on the left there are navigators for three pages).
+![Navigators](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_header.png)
+  
 - At the bottom of the Welcome to Sligo, there is a button provided, which directs the user to the Direction to Sligo page and shows the map where Sligo is located.
+![Button](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_button.png)
+  
 - After scrolling the first top pages, the user will find two key attractions about Sligo. By clicking photos, the website will navigate the user to the Attraction page.
+![Attractions](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_attractions.png)
+
 - After scrolling further down, there are few details provided on what users can do when they are in Sligo. Clicking the title will provide more details.
+![Activities](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_activities.png)
+
 - At the bottom of the first page before the footer, I provide 3 attractions that make Sligo more unique. By hoovering the top of the photos user will get details about them.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+
 - At the footer, acknowledgement and a couple of links to my social profile. All three pages have the same footer.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
 
 ### Second page:
 - Top of the half page in the header and have the same navigation bar as the first page.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+
 - After the header provides short details about two beautiful mountains in the Sligo.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+  
 - After scrolling down, the user will find three main beaches in Sligo which leads to Wild Atlantic Way.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+  
 - After Wild Atlantic Way, introduced the 4 most popular/recommended restaurants to eat when visiting Sligo.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+  
 - Scrolling further down, provides information about Live Music in Sligo.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+  
 - At the bottom of the page, before the footer, the four most popular places to visit in Sligo. By Hoovering on the photos user will get more information.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
 
 ### Third page:
 - Top of the half page in the header and have the same navigation bar as the first page.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
 - After the header shows the map, where Sligo is located.
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
+  
 - After the map, Provide a small note to the user and an option the provide feedback (Not active, still developing)
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
 
 ## More to develop:
 #- Sligo is a big county, will add more details about each Town/village.<br>
 #- Providing feedback, will connect to the email.<br>
 #- Add more features to the website.<br>
-#- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.<br>
+#- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.<be>
+![Responsice Mockup](https://github.com/mnalrashid/sligo.github.io/blob/main/screenshoots/p1_video.png)
 
 ## Software:
 Used Visual Studio Code to construct the website and used HTML, CSS and a small bit of JavaScript (only for Tablets and Mobile). Also used Chrome to inspect and test the site.
