@@ -35,7 +35,7 @@ On the journey to the website, the user will find seamless navigation between pa
 #- Add more features to the website.<br>
 #- UX issues when tablet/mobile tilted, the video doesn't stretch/cover the background.<br>
 
-## Software:
+## Software:
 Used Visual Studio Code to construct the website and used HTML, CSS and a small bit of JavaScript (only for Tablets and Mobile). Also used Chrome to inspect and test the site.
 
 ## Deployment:
