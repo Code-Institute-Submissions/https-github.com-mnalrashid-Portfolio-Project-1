@@ -488,35 +488,6 @@ p {
         font-size: 20px;
     }
 
-    .nav-links ul li {
-        display: block;
-    }
-
-    .nav-links {
-        position: fixed;
-        background: #ffffff;
-        height: 100vh;
-        width: 200px;
-        top: 0;
-        right: -200px;
-        text-align: left;
-        z-index: 2;
-        transition: 1s;
-    }
-
-    nav .fa-solid {
-        display: block;
-        margin: 10px;
-        font-size: 18px;
-        cursor: pointer;
-        color: rgb(91, 90, 85);
-        position: relative;
-    }
-
-    .nav-links ul {
-        padding: 30px;
-    }
-
     /* -------Life in Sligo------ */
 
     .sub_header {
