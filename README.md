@@ -68,7 +68,7 @@ On the journey to the website, the user will find seamless navigation between pa
 Used Visual Studio Code to construct the website and used HTML and CSS. Also used Google Chrome to test the website
 
 ## Deployment:
-The website is deployed in GitHub, and it is available to visit for all users [here.](https://mnalrashid.github.io/sligo.github.io/index.html)
+The website is deployed in GitHub, and it is available to visit for all users [here.](https://mnalrashid.github.io/Portfolio-Project-1/)
 
 ## Credits:
 I have taken ideas and content from multiple websites.
